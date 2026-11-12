@@ -1,0 +1,96 @@
+schema_version: "1.0"
+status: "draft"
+site_id: "iching-open-reading-prototype"
+project: "周易留白阅读原型"
+confirmed_by: "待用户确认"
+confirmed_at: null
+no_secret_values: true
+
+server:
+  reference: "不适用，本地 L0 原型"
+  owner: "不适用"
+
+environments:
+  preview:
+    enabled: false
+    public_url: null
+    admin_path: null
+  production:
+    enabled: false
+    public_url: null
+    admin_path: null
+
+repository:
+  repo_url: "待确认"
+  approved_branch: "待确认"
+  production_branch: "main"
+  commit_sha_required: true
+
+architecture: "static"
+
+toolchain:
+  node: "22.16.0"
+  pnpm_major: "10"
+  package_manager: "pnpm@10.34.5"
+  lockfile: "pnpm-lock.yaml"
+  payload_version: null
+
+runtime:
+  app_port_reference: "127.0.0.1:4174"
+  health_port_reference: null
+
+deployment:
+  call_carrier: "local"
+  forced_command_reference: null
+  allowed_modes: []
+  guide_reference: "README.md"
+  production_approval_required: true
+  authorization_reference: null
+  deploy_owner: null
+  validate_required: true
+  status_required: true
+
+storage:
+  code_reference: "当前项目目录"
+  releases_reference: null
+  database_reference: null
+  media_reference: null
+
+database:
+  type: "other"
+  credential_secret_ref: null
+  business_data_in_file: false
+
+media:
+  credential_secret_ref: null
+  managed_separately_from_code: true
+
+roles:
+  owner: "用户"
+  developer: "Codex 当前执行任务"
+  server_owner: "不适用"
+
+migration:
+  required: false
+  required_for_localization: false
+  procedure_reference: null
+  production_approval_required: true
+
+backup:
+  procedure_reference: null
+  database_and_media_separate: true
+  restore_rehearsal_required: false
+
+release_retention:
+  policy_reference: null
+  previous_accepted_release_required: false
+
+health_checks:
+  public_page: "本地浏览器打开 /"
+  application: "pnpm start 后访问 http://127.0.0.1:4174"
+  admin: null
+  api: null
+
+rollback:
+  procedure_reference: "删除整个原型目录；不影响其他项目"
+  explicit_authorization_required: true

@@ -1,0 +1,208 @@
+{
+  "schemaVersion": 1,
+  "archive": "Chinese-Classics-TXT.zip",
+  "archiveSha256": "2aa1f44709a89c4131a515e1ef1c2163aa9e070dfcd3e25262dc862bcba34845",
+  "usage": "内部原型；汇编来源与授权说明确认前不得公开分发",
+  "entryCount": 18,
+  "uniqueContentCount": 16,
+  "entries": [
+    {
+      "id": "六经--乐经_失传说明",
+      "collection": "六经",
+      "title": "乐经_失传说明",
+      "path": "/content/classics/library/六经/乐经_失传说明.txt",
+      "bytes": 377,
+      "lines": 6,
+      "sha256": "6bc08144ca91909b6ea6c4192ae3c3237fcae65f48bd4fd90bf58a26f63be372",
+      "duplicateOf": null,
+      "sourceStatus": "说明文件，不是传世原文"
+    },
+    {
+      "id": "十三经--01_周易",
+      "collection": "十三经",
+      "title": "周易",
+      "path": "/content/classics/library/十三经/01_周易.txt",
+      "bytes": 101499,
+      "lines": 7509,
+      "sha256": "64140b6002522b0dc145348328f278a674423366adee83343c1ce1c74d257110",
+      "duplicateOf": null,
+      "sourceStatus": "古典原文；汇编来源与版本待复核"
+    },
+    {
+      "id": "十三经--02_尚书",
+      "collection": "十三经",
+      "title": "尚书",
+      "path": "/content/classics/library/十三经/02_尚书.txt",
+      "bytes": 116054,
+      "lines": 7373,
+      "sha256": "8f7fecaf2fd46d323dda735508da6c5b6503cbb2ecb0eca5f93480fef6fbd555",
+      "duplicateOf": null,
+      "sourceStatus": "古典原文；汇编来源与版本待复核"
+    },
+    {
+      "id": "十三经--03_诗经",
+      "collection": "十三经",
+      "title": "诗经",
+      "path": "/content/classics/library/十三经/03_诗经.txt",
+      "bytes": 170976,
+      "lines": 11309,
+      "sha256": "9463fff269c52489d80a3231a6b4baab3e24296a61fe0feace51d1e1c77db4c8",
+      "duplicateOf": null,
+      "sourceStatus": "古典原文；汇编来源与版本待复核"
+    },
+    {
+      "id": "十三经--04_周礼",
+      "collection": "十三经",
+      "title": "周礼",
+      "path": "/content/classics/library/十三经/04_周礼.txt",
+      "bytes": 195551,
+      "lines": 11619,
+      "sha256": "6e7188c9a82322f157ca4386f8c1c889976157d4ccd48b5a0a72fc939add0b02",
+      "duplicateOf": null,
+      "sourceStatus": "古典原文；汇编来源与版本待复核"
+    },
+    {
+      "id": "十三经--05_仪礼",
+      "collection": "十三经",
+      "title": "仪礼",
+      "path": "/content/classics/library/十三经/05_仪礼.txt",
+      "bytes": 216859,
+      "lines": 559,
+      "sha256": "6dd08c7e0aa40f1ef49e0822178c45dc61e5d7e67d534a0180598e28f8244ced",
+      "duplicateOf": null,
+      "sourceStatus": "文本内标注来源待确认"
+    },
+    {
+      "id": "十三经--06_礼记",
+      "collection": "十三经",
+      "title": "礼记",
+      "path": "/content/classics/library/十三经/06_礼记.txt",
+      "bytes": 395782,
+      "lines": 23319,
+      "sha256": "313dec480c615510f5aff677a879852fd27875970e7a6f37bc067963ab786f96",
+      "duplicateOf": null,
+      "sourceStatus": "古典原文；汇编来源与版本待复核"
+    },
+    {
+      "id": "十三经--07_春秋左传",
+      "collection": "十三经",
+      "title": "春秋左传",
+      "path": "/content/classics/library/十三经/07_春秋左传.txt",
+      "bytes": 812801,
+      "lines": 51019,
+      "sha256": "76d7c593c3ffa7b3ec189e44219a5ccf407438b9d2d776d8ecbe32a1914132b5",
+      "duplicateOf": null,
+      "sourceStatus": "古典原文；汇编来源与版本待复核"
+    },
+    {
+      "id": "十三经--08_春秋公羊传",
+      "collection": "十三经",
+      "title": "春秋公羊传",
+      "path": "/content/classics/library/十三经/08_春秋公羊传.txt",
+      "bytes": 185304,
+      "lines": 1844,
+      "sha256": "3b8534fab95a32f73ef0ab24100490b2122917add2151785c1a51b339ba07744",
+      "duplicateOf": null,
+      "sourceStatus": "文本内标注来源待确认"
+    },
+    {
+      "id": "十三经--09_春秋谷梁传",
+      "collection": "十三经",
+      "title": "春秋谷梁传",
+      "path": "/content/classics/library/十三经/09_春秋谷梁传.txt",
+      "bytes": 170089,
+      "lines": 12480,
+      "sha256": "fa7fb05b0fa8e4f8ba264e032f5fe60b3ad1842a38a293dd53ddef27855822d2",
+      "duplicateOf": null,
+      "sourceStatus": "古典原文；汇编来源与版本待复核"
+    },
+    {
+      "id": "十三经--10_论语",
+      "collection": "十三经",
+      "title": "论语",
+      "path": "/content/classics/library/十三经/10_论语.txt",
+      "bytes": 69363,
+      "lines": 4017,
+      "sha256": "eb78ef0f0709df0e0d0ccbfeb56700cab9bea4b0ce8b315936650daee360a7a6",
+      "duplicateOf": null,
+      "sourceStatus": "古典原文；汇编来源与版本待复核"
+    },
+    {
+      "id": "十三经--11_孝经",
+      "collection": "十三经",
+      "title": "孝经",
+      "path": "/content/classics/library/十三经/11_孝经.txt",
+      "bytes": 7563,
+      "lines": 456,
+      "sha256": "f2432d2274b484d39cf5ebfd88581fb5c08d5f6f89f4125627017da82005a374",
+      "duplicateOf": null,
+      "sourceStatus": "古典原文；汇编来源与版本待复核"
+    },
+    {
+      "id": "十三经--12_尔雅",
+      "collection": "十三经",
+      "title": "尔雅",
+      "path": "/content/classics/library/十三经/12_尔雅.txt",
+      "bytes": 47592,
+      "lines": 1800,
+      "sha256": "47dba850e89de010f44ec6b37b912fe13e107c9d21b7b69da8e85d5b7233d1d8",
+      "duplicateOf": null,
+      "sourceStatus": "文本内标注来源待确认"
+    },
+    {
+      "id": "十三经--13_孟子",
+      "collection": "十三经",
+      "title": "孟子",
+      "path": "/content/classics/library/十三经/13_孟子.txt",
+      "bytes": 142785,
+      "lines": 7739,
+      "sha256": "6472c167592ed0f3ff783e03584d6cd0caa1565f4e2bc2ef5807f43928ffdbfd",
+      "duplicateOf": null,
+      "sourceStatus": "古典原文；汇编来源与版本待复核"
+    },
+    {
+      "id": "四书--中庸",
+      "collection": "四书",
+      "title": "中庸",
+      "path": "/content/classics/library/四书/中庸.txt",
+      "bytes": 13459,
+      "lines": 79,
+      "sha256": "bcc511eddeb008570fcd01a080101edd73e06ccd4cf6c6797d2d37e99a5347e2",
+      "duplicateOf": null,
+      "sourceStatus": "古典原文；汇编来源与版本待复核"
+    },
+    {
+      "id": "四书--大学",
+      "collection": "四书",
+      "title": "大学",
+      "path": "/content/classics/library/四书/大学.txt",
+      "bytes": 6672,
+      "lines": 33,
+      "sha256": "77aa067a40912dd372750a3d7e651901be1d598d7e702ad193980f10181d4698",
+      "duplicateOf": null,
+      "sourceStatus": "古典原文；汇编来源与版本待复核"
+    },
+    {
+      "id": "四书--孟子",
+      "collection": "四书",
+      "title": "孟子",
+      "path": "/content/classics/library/四书/孟子.txt",
+      "bytes": 142785,
+      "lines": 7739,
+      "sha256": "6472c167592ed0f3ff783e03584d6cd0caa1565f4e2bc2ef5807f43928ffdbfd",
+      "duplicateOf": "十三经/13_孟子.txt",
+      "sourceStatus": "与十三经同名文件内容完全相同"
+    },
+    {
+      "id": "四书--论语",
+      "collection": "四书",
+      "title": "论语",
+      "path": "/content/classics/library/四书/论语.txt",
+      "bytes": 69363,
+      "lines": 4017,
+      "sha256": "eb78ef0f0709df0e0d0ccbfeb56700cab9bea4b0ce8b315936650daee360a7a6",
+      "duplicateOf": "十三经/10_论语.txt",
+      "sourceStatus": "与十三经同名文件内容完全相同"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "translations": [
+    {
+      "id": "legge-1882-en",
+      "language": "en",
+      "translator": "James Legge",
+      "work": "The Yî King, Sacred Books of the East, Volume 16",
+      "publicationYear": 1882,
+      "underlyingWorkStatus": "public-domain-candidate",
+      "bundled": false,
+      "coverage": 0,
+      "blocker": "The readable sacred-texts transcription adds a non-commercial reuse condition. Before a paid product can bundle the text, independently transcribe and proofread the 1882 scan or obtain a commercially compatible transcription with provenance.",
+      "sourceCandidates": [
+        "https://archive.org/details/sacredbooksofchi16conf",
+        "https://sacred-texts.com/ich/ictp.htm"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "iching-open-reading-prototype",
+  "private": true,
+  "version": "0.0.0-prototype",
+  "type": "module",
+  "packageManager": "pnpm@10.34.5",
+  "scripts": {
+    "start": "node server.mjs",
+    "build:classics": "node scripts/build-classics-library.mjs",
+    "build:iching": "node scripts/build-iching-content.mjs",
+    "check:classics": "node scripts/build-classics-library.mjs --check",
+    "check:iching": "node scripts/build-iching-content.mjs --check",
+    "test": "node --test tests/*.test.mjs",
+    "check": "node --check server.mjs && node --check app.js && node --check iching-core.js && node --check reflection-prompts.js && node --check reflection-store.js && node --check soundscape.js && node --check scripts/build-classics-library.mjs && node --check scripts/build-iching-content.mjs && pnpm test && pnpm check:classics && pnpm check:iching"
+  }
+}
